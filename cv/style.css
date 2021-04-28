@@ -1,0 +1,23 @@
+
+@font-face{
+
+
+}
+
+body{
+    background-image: url(magn.jpg);
+    font-family: ;
+}
+
+
+.textV{
+    color: blueviolet;
+    border: 1px ridge rgb(81, 61, 170);
+    text-align: center;
+}
+
+
+li.ombre{
+    opacity: 1;
+    text-shadow: 2px 2px 3px rgb(57, 15, 92);
+}
